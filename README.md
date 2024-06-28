@@ -39,6 +39,3 @@ As a data analyst, I was tasked with analyzing these trends to identify areas fo
 ✅ The map highlights a consistent sales increase in our downtown location compared to our suburban branch.
 
 ✅ The line graph reveals a surge in customer traffic coinciding with our afternoon happy hour promotion, showing a **30%** increase in traffic compared to pre-promotion hours.
-
-**DASHBOARD 1** - (dashboard)
-![Coffee sales Dasboard](https://github.com/Sidhant-abhi/Coffee-Sales-Analysis/assets/146129693/8a97fb27-af9d-41f8-806b-1662c632d6c6)
