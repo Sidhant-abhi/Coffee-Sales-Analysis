@@ -1,5 +1,5 @@
 # Coffee-Sales-Analysis
-  This project empowers you to gain deep insights into your **Coffee Sales** data through an interactive **Power BI** dashboard. Leverage the power of **Advanced SQL** to extract, transform, and load (ETL) your coffee sales data, meticulously preparing it for insightful visualizations.
+  This project empowered me to gain deep insights into the **Coffee Sales** data through an interactive **Power BI** dashboard. Leveraged the power of **Advanced SQL** to extract, transform and load the coffee sales data, meticulously preparing it for insightful visualizations.
 
 DASHBOARD 🔗 :
 
